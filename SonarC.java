@@ -1,16 +1,5 @@
 package application;
-/*
- * 
- 
- * Group: N7
- * Group Members: Nilesh Samnani,
-                  Mushir Shaikh
-                  Unnit Patel
 
- * Note: comment 'ADC' means "add your code here"
- *       comment 'NOC' means don't change i.e. you should use as is
- *
- */
 
 import javax.jms.Connection;
 import javax.jms.ConnectionFactory;
